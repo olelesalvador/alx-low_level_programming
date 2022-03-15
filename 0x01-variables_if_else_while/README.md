@@ -28,8 +28,8 @@
 ### [9. Patience, persistence and perspiration make an unbeatable combination for success](./9-print_comb.c)
 * Write a program that prints all possible combinations of single-digit numbers.
 
-### [10. 00...99](./10-print_comb2.c)
-* Write a program that prints the numbers from 00 to 99.
+### [10. 00...99](./10-print_comb3.c)
+* Write a program that prints all possible different combinations of two digits.
 
 ---
 
